@@ -1,22 +1,22 @@
-Bolo de Fubá Cozido:shallow_pan_of_food:
+# Bolo de Fubá Cozido:shallow_pan_of_food:
 
 Ingredientes: 
 
 
 
-*4 ovos 
+* 4 ovos 
 
-*2 xícaras de (chá) de leite
+* xícaras de (chá) de leite
 
-*1/2 xícara de (chá) de óleo
+* 1/2 xícara de (chá) de óleo
 
-*1 xícara de (chá) de açucar 
+* 1 xícara de (chá) de açucar 
 
-*2 xícaras de fubá
+* 2 xícaras de fubá
 
-*2 colheres de (sopa) de açúcar
+* 2 colheres de (sopa) de açúcar
 
-*1 colher de (sopa) de fermento em pó
+* 1 colher de (sopa) de fermento em pó
 
 
 
